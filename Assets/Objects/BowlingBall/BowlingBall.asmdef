@@ -1,0 +1,10 @@
+﻿{
+    "name": "BowlingBall_b36a3390944b4875b9a05613018ab49c",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
