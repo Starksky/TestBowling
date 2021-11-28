@@ -1044,8 +1044,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1467374377}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalRotation: {x: 0.083286524, y: 0.019431528, z: -0.00162409, w: 0.9963349}
+  m_LocalPosition: {x: 0.10781508, y: 2.0250893, z: -13.94016}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 413665383}
@@ -1337,11 +1337,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: BowlingPin
       objectReference: {fileID: 0}
-    - target: {fileID: 6192070906106384118, guid: 74c3ebc80fa962f499fb516e562de73e,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6192070906106811094, guid: 74c3ebc80fa962f499fb516e562de73e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1350,7 +1345,7 @@ PrefabInstance:
     - target: {fileID: 6192070906106811094, guid: 74c3ebc80fa962f499fb516e562de73e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.492
       objectReference: {fileID: 0}
     - target: {fileID: 6192070906106811094, guid: 74c3ebc80fa962f499fb516e562de73e,
         type: 3}
@@ -1774,11 +1769,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BowlingBall
-      objectReference: {fileID: 0}
-    - target: {fileID: 6736651337869219081, guid: 0689be2f5b6d4074d8c91ed4f3913bb4,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0689be2f5b6d4074d8c91ed4f3913bb4, type: 3}
